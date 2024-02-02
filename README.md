@@ -8,9 +8,9 @@ The Leaflet Challenge involves creating a visualization tool to display earthqua
   - **Part 1: Earthquake Visualization**
   - **Part 2: Advanced Earthquake Visualization**
   
-![Map screenshot of all the earthquakes from the JSON dataset of "All Earthquakes from the Past 7 Days](./Images/4_BasicMap.png)
+![Map screenshot of all the earthquakes from the JSON dataset of "All Earthquakes from the Past 7 Days](./images/4_BasicMap.png) 
 
-![Map screenshot of the tectonic plates dataset and the earthquakes](./Images/5_Advanced.png)
+![Map screenshot of the tectonic plates dataset and the earthquakes](./images/5_Advanced.png)
 
 - ## Deployment and visualisation of the combined maps [leaflet-challenge](https://anyasorg.github.io/leaflet-challenge/)
   
