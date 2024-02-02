@@ -66,7 +66,7 @@ The Leaflet Challenge involves creating a visualization tool to display earthqua
    - Plot tectonic plates dataset alongside earthquakes.
    - Add other base maps to choose from.
    - Put each dataset into separate overlays for independent toggling.
-   - Add layer controls to the map.
+   - Add layer controls to the map (satellite, grayscale and outdoor layers) from Mapbox at https://www.mapbox.com/.
 
 ## Code Source
 - The code for this project can be found at [GitHub Repository](https://github.com/AnyasorG/leaflet-challenge.git).
