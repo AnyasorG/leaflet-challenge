@@ -1,1 +1,7 @@
-Images_1
+# Ignore favicon.ico
+favicon.ico
+
+# Other standard ignores
+node_modules/
+dist/
+*.log
